@@ -62,7 +62,7 @@ Dilengkapi dengan **sistem manajemen lisensi** menggunakan **Supabase** sebagai 
    git clone https://github.com/kkykrnwn/otp
    ```
 
-5. Masuk ke folder project:
+5. Masuk ke folder otp:
 
    ```bash
    cd otp
